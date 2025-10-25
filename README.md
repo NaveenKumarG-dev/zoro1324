@@ -349,8 +349,6 @@ RESULTS:
 [![Stars](https://img.shields.io/github/stars/zoro1324/Air-Quality-Checker?style=for-the-badge&color=yellow&logo=github)](https://github.com/zoro1324/Air-Quality-Checker)
 [![Live](https://img.shields.io/badge/⚡_DEPLOYED-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)]()
 
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="280"/>
-
 </div>
 
 **⚔️ The Blade of Environmental Protection**
@@ -383,8 +381,6 @@ Helping communities breathe easier by providing actionable environmental health 
 [![Repo](https://img.shields.io/badge/⚔️_VIEW_BLADE-39FF14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zoro1324/naveen-portfolio)
 [![Live](https://img.shields.io/badge/🔥_VISIT_DOJO-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white)](https://zoro1324.github.io/naveen-portfolio)
 [![Lighthouse](https://img.shields.io/badge/Performance-95%2B-39FF14?style=for-the-badge)]()
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 </div>
 
@@ -423,8 +419,6 @@ Professional digital presence telling the story of dedication and growth
 [![Accuracy](https://img.shields.io/badge/Accuracy-96%25-success?style=for-the-badge)]()
 [![Model](https://img.shields.io/badge/Model-Random_Forest-blue?style=for-the-badge)]()
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="280"/>
-
 </div>
 
 **⚔️ The Blade of Healing**
@@ -458,8 +452,6 @@ Early detection system potentially saving lives through timely intervention
 [![Repo](https://img.shields.io/badge/⚔️_VIEW_BLADE-39FF14?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zoro1324/crime-hotspot-prediction)
 [![Research](https://img.shields.io/badge/Type-Research_Grade-purple?style=for-the-badge)]()
 [![AI](https://img.shields.io/badge/Powered_By-ML_&_Geospatial-blue?style=for-the-badge)]()
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280"/>
 
 </div>
 
@@ -498,8 +490,6 @@ Enabling smarter policing and safer communities through data-driven prevention
 [![ML](https://img.shields.io/badge/Technique-Regression-orange?style=for-the-badge)]()
 [![Status](https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge)]()
 
-<img src="https://media.giphy.com/media/xTiTnHXbRoaZ1B1Mo8/giphy.gif" width="280"/>
-
 </div>
 
 **⚔️ The Blade of Market Truth**
@@ -530,8 +520,6 @@ Empowering buyers and sellers with fair, data-driven pricing intelligence
 <div align="center">
 
 ### 🎯 Future Blades in the Forge
-
-<img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="280"/>
 
 </div>
 
