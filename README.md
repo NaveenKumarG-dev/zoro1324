@@ -91,7 +91,7 @@ const zoro = {
 
 <div align="center">
   <a href="https://github.com/zoro1324">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=zoro1324&theme=dracula&hide_border=true&background=1a1b27&stroke=bd93f9&ring=bd93f9&fire=ff6e6e&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=f8f8f2&border_radius=15" alt="GitHub Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=zoro1324&theme=dracula&hide_border=true&background=1a1b27&stroke=bd93f9&ring=bd93f9&fire=ff6e6e&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=f8f8f2&border_radius=15" alt="GitHub Streak Stats" />
   </a>
 </div>
 
