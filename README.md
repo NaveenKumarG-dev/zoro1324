@@ -13,14 +13,14 @@
 <br>
 
 <p align="center">
-  <a href="https://github.com/zoro1324">
-    <img src="https://komarev.com/ghpvc/?username=zoro1324&label=Profile%20Views&color=bd93f9&style=for-the-badge" alt="profile views" />
+  <a href="https://github.com/NaveenKumarG-dev">
+    <img src="https://komarev.com/ghpvc/?username=NaveenKumarG-dev&label=Profile%20Views&color=bd93f9&style=for-the-badge" alt="profile views" />
   </a>
-  <a href="https://github.com/zoro1324?tab=followers">
-    <img src="https://img.shields.io/github/followers/zoro1324?label=Followers&style=for-the-badge&color=bd93f9&logo=github" alt="followers" />
+  <a href="https://github.com/NaveenKumarG-dev?tab=followers">
+    <img src="https://img.shields.io/github/followers/NaveenKumarG-dev?label=Followers&style=for-the-badge&color=bd93f9&logo=github" alt="followers" />
   </a>
-  <a href="https://github.com/zoro1324">
-    <img src="https://img.shields.io/github/stars/zoro1324?label=Stars&style=for-the-badge&color=bd93f9&logo=github" alt="stars" />
+  <a href="https://github.com/NaveenKumarG-dev">
+    <img src="https://img.shields.io/github/stars/NaveenKumarG-dev?label=Stars&style=for-the-badge&color=bd93f9&logo=github" alt="stars" />
   </a>
 </p>
 
@@ -71,11 +71,11 @@ const zoro = {
 <br>
 
 <div align="center">
-  <a href="https://github.com/zoro1324">
-    <img src="https://github-readme-stats.vercel.app/api?username=zoro1324&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=bd93f9&icon_color=79dafa&text_color=f8f8f2&border_radius=15&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
+  <a href="https://github.com/NaveenKumarG-dev">
+    <img src="https://github-readme-stats.vercel.app/api?username=NaveenKumarG-dev&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=bd93f9&icon_color=79dafa&text_color=f8f8f2&border_radius=15&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/zoro1324">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zoro1324&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=bd93f9&text_color=f8f8f2&border_radius=15&langs_count=8&card_width=320" height="180" alt="Top Languages" />
+  <a href="https://github.com/NaveenKumarG-dev">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NaveenKumarG-dev&layout=compact&theme=dracula&hide_border=true&bg_color=1a1b27&title_color=bd93f9&text_color=f8f8f2&border_radius=15&langs_count=8&card_width=320" height="180" alt="Top Languages" />
   </a>
 </div>
 
@@ -90,8 +90,8 @@ const zoro = {
 <br>
 
 <div align="center">
-  <a href="https://github.com/zoro1324">
-    <img src="https://streak-stats.demolab.com/?user=zoro1324&theme=dracula&hide_border=true&background=1a1b27&stroke=bd93f9&ring=bd93f9&fire=ff6e6e&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=f8f8f2&border_radius=15" alt="GitHub Streak Stats" />
+  <a href="https://github.com/NaveenKumarG-dev">
+    <img src="https://streak-stats.demolab.com/?user=NaveenKumarG-dev&theme=dracula&hide_border=true&background=1a1b27&stroke=bd93f9&ring=bd93f9&fire=ff6e6e&currStreakNum=f8f8f2&sideNums=f8f8f2&currStreakLabel=bd93f9&sideLabels=bd93f9&dates=f8f8f2&border_radius=15" alt="GitHub Streak Stats" />
   </a>
 </div>
 
@@ -106,7 +106,7 @@ const zoro = {
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zoro1324&theme=dracula&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C,-?&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Followers,Stars" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NaveenKumarG-dev&theme=dracula&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=7&rank=-C,-?&title=MultiLanguage,Commits,Repositories,PullRequest,Issues,Followers,Stars" alt="GitHub Trophies" />
 </div>
 
 <br>
@@ -172,7 +172,7 @@ const zoro = {
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zoro1324&theme=dracula&hide_border=true&bg_color=1a1b27&color=bd93f9&line=bd93f9&point=79dafa&area=true&area_color=bd93f9&border_radius=15&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenKumarG-dev&theme=dracula&hide_border=true&bg_color=1a1b27&color=bd93f9&line=bd93f9&point=79dafa&area=true&area_color=bd93f9&border_radius=15&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" width="98%" />
 </div>
 
 <br>
@@ -187,9 +187,9 @@ const zoro = {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zoro1324/zoro1324/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zoro1324/zoro1324/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man eating contributions" src="https://raw.githubusercontent.com/zoro1324/zoro1324/output/pacman-contribution-graph.svg" width="98%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NaveenKumarG-dev/NaveenKumarG-dev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NaveenKumarG-dev/NaveenKumarG-dev/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating contributions" src="https://raw.githubusercontent.com/NaveenKumarG-dev/NaveenKumarG-dev/output/pacman-contribution-graph.svg" width="98%">
   </picture>
 </div>
 
@@ -205,25 +205,25 @@ const zoro = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/zoro1324" target="_blank">
+<a href="https://www.linkedin.com/in/NaveenKumarG-dev" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://github.com/zoro1324" target="_blank">
+<a href="https://github.com/NaveenKumarG-dev" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 <a href="mailto:your.email@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
-<a href="https://twitter.com/zoro1324" target="_blank">
+<a href="https://twitter.com/NaveenKumarG-dev" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
-<a href="https://discord.gg/zoro1324" target="_blank">
+<a href="https://discord.gg/NaveenKumarG-dev" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
 </a>
-<a href="https://www.youtube.com/@zoro1324" target="_blank">
+<a href="https://www.youtube.com/@NaveenKumarG-dev" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
 </a>
-<a href="https://www.instagram.com/zoro1324" target="_blank">
+<a href="https://www.instagram.com/NaveenKumarG-dev" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
