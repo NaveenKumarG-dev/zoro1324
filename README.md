@@ -37,7 +37,7 @@
 <br>
 
 ```typescript
-const zoro = {
+const naveen = {
     location: "🌍 Earth",
     code: ["JavaScript", "TypeScript", "Python", "C#", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "app dev", "software architecture"],
