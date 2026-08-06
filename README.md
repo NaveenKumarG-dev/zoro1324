@@ -39,7 +39,7 @@
 ```typescript
 const naveen = {
     location: "🌍 Earth",
-    code: ["JavaScript", "TypeScript", "Python", "C#", "HTML", "CSS"],
+    code: ["JavaScript", "TypeScript", "Python", "C++", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "app dev", "software architecture"],
     technologies: {
         frontEnd: {
