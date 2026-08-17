@@ -52,7 +52,7 @@ const naveen = {
             csharp: [".NET Core"]
         },
         databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"],
-        devOps: ["Docker", "Git", "GitHub Actions", "AWS"],
+        devOps: ["Docker", "Git", "GitHub Actions"],
         tools: ["VS Code", "Git", "Postman", "Figma"]
     },
     currentFocus: "Building scalable and efficient applications",
